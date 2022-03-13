@@ -1,2 +1,8 @@
 # Matrix-Calculator
-Matrix addition Subtraction Transpose Symmetric Multiplication.
+Matrix addition
+Subtraction
+Transpose 
+Symmetric 
+Multiplication 
+Diagonal Matrix.
+Identity Matrix
